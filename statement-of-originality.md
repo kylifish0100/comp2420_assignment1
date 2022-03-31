@@ -16,9 +16,8 @@ Add as many "name+comment" entries as necessary
 ### Collaboration:
 If you have discussed any questions or solutions with other students of the course (COMP2420 & COMP6420), you must note this here. They must also note it in their solution.
 
-  - name: N/A
-    comment:
-      N/A
+  - name: Mingrui Gao
+    comment: We discussed which dataset to be adopted in Q3.1
 
 
 Add as many "url+licence+comment" entries as necessary
@@ -28,10 +27,17 @@ If you copied (or slightly changed) code from a friend or external website (for 
 
 
   - comment: N/A
-    url: N/A
+    url: https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
+    licence: N/A
+    
+  - comment: N/A
+    url: https://www.pythoncharts.com/matplotlib/pie-chart-matplotlib/
     licence: N/A
 
-
+https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
+https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method
+https://stackoverflow.com/questions/11601961/sorting-multiple-lists-based-on-a-single-list-in-python
+https://towardsdatascience.com/customizing-multiple-subplots-in-matplotlib-a3e1c2e099bc
 Add as many "url+licence+comment" entries as necessary
 
 ### Assets:
@@ -49,5 +55,5 @@ If you use any external sources to increase your understanding of a topic, or to
 
 ## Sign *your* name and uid here.
 
-name1:  
-uid1:
+name1: Yuhan Zhang  
+uid1: u7262936
