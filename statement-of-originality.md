@@ -38,6 +38,7 @@ https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
 https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method
 https://stackoverflow.com/questions/11601961/sorting-multiple-lists-based-on-a-single-list-in-python
 https://towardsdatascience.com/customizing-multiple-subplots-in-matplotlib-a3e1c2e099bc
+https://stackoverflow.com/questions/37313691/how-to-remove-a-pandas-dataframe-from-another-dataframe
 Add as many "url+licence+comment" entries as necessary
 
 ### Assets:
