@@ -17,7 +17,7 @@ Add as many "name+comment" entries as necessary
 If you have discussed any questions or solutions with other students of the course (COMP2420 & COMP6420), you must note this here. They must also note it in their solution.
 
   - name: Mingrui Gao
-    comment: We discussed which dataset to be adopted in Q3.1 and what statistical test could be used at Q5.2
+    comment: We discussed demical round function implementation(Q2a); which dataset to be adopted when visualizing in pie chart(Q3a); what statistical test is suitable for hypothesis test(Q5b); how to build up classification models and evaluate performance(Q6)
 
 
 Add as many "url+licence+comment" entries as necessary
