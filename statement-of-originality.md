@@ -17,7 +17,7 @@ Add as many "name+comment" entries as necessary
 If you have discussed any questions or solutions with other students of the course (COMP2420 & COMP6420), you must note this here. They must also note it in their solution.
 
   - name: Mingrui Gao
-    comment: We discussed which dataset to be adopted in Q3.1
+    comment: We discussed which dataset to be adopted in Q3.1 and what statistical test could be used at Q5.2
 
 
 Add as many "url+licence+comment" entries as necessary
@@ -25,20 +25,27 @@ Add as many "url+licence+comment" entries as necessary
 ### Code:
 If you copied (or slightly changed) code from a friend or external website (for example), you must reference it here. Even if you change the variable name or slightly change the functions, it must still be referenced here.
 
-
-  - comment: N/A
-    url: https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
-    licence: N/A
     
-  - comment: N/A
+  - comment: I modified pie-chart illustration codes from this website
     url: https://www.pythoncharts.com/matplotlib/pie-chart-matplotlib/
     licence: N/A
+    
+  - comment: I used the method I found on geeksforgeeks to sort zipped lists
+    url: https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
+    licence: N/A
+    
+  - comment: I used the df.str.contains method from the example I found on stackoverflow
+    url: https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method
+    licence: CC BY-SA
+    
+  - comment: I used the code from stackoverflow to find the complement of an 
+    url: https://stackoverflow.com/questions/37313691/how-to-remove-a-pandas-dataframe-from-another-dataframe
+    licence: CC BY-SA
 
-https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
-https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method
-https://stackoverflow.com/questions/11601961/sorting-multiple-lists-based-on-a-single-list-in-python
-https://towardsdatascience.com/customizing-multiple-subplots-in-matplotlib-a3e1c2e099bc
-https://stackoverflow.com/questions/37313691/how-to-remove-a-pandas-dataframe-from-another-dataframe
+  - comment: I imitated the code to create multiple sub plots.
+    url: https://towardsdatascience.com/customizing-multiple-subplots-in-matplotlib-a3e1c2e099bc
+    licence: N/A
+
 Add as many "url+licence+comment" entries as necessary
 
 ### Assets:
@@ -53,6 +60,8 @@ If you use any Python packages (other than the ones already used in the course: 
 ### References:
 If you use any external sources to increase your understanding of a topic, or to provide as evidence for a written question, it must be referenced here. If you want to in-text reference something, it must be referenced here. Harvard or APA is expected.
 
+Anuuz Soni 2020, accessed 3 March 2022 
+<https://medium.com/@anuuz.soni/advantages-and-disadvantages-of-knn-ee06599b9336>
 
 ## Sign *your* name and uid here.
 
